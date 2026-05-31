@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sante-communautaire/static/css/main.e5b3c251.css",
+    "main.js": "/sante-communautaire/static/js/main.65480c69.js",
+    "index.html": "/sante-communautaire/index.html",
+    "main.e5b3c251.css.map": "/sante-communautaire/static/css/main.e5b3c251.css.map",
+    "main.65480c69.js.map": "/sante-communautaire/static/js/main.65480c69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5b3c251.css",
+    "static/js/main.65480c69.js"
+  ]
+}
