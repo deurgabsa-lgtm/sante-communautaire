@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/sante-communautaire/static/css/main.e5b3c251.css",
-    "main.js": "/sante-communautaire/static/js/main.65480c69.js",
+    "main.js": "/sante-communautaire/static/js/main.5d2d9daa.js",
     "index.html": "/sante-communautaire/index.html",
     "main.e5b3c251.css.map": "/sante-communautaire/static/css/main.e5b3c251.css.map",
-    "main.65480c69.js.map": "/sante-communautaire/static/js/main.65480c69.js.map"
+    "main.5d2d9daa.js.map": "/sante-communautaire/static/js/main.5d2d9daa.js.map"
   },
   "entrypoints": [
     "static/css/main.e5b3c251.css",
-    "static/js/main.65480c69.js"
+    "static/js/main.5d2d9daa.js"
   ]
 }
